@@ -1,2 +1,2 @@
 # Discord-Stock-Bot
-This bot provide information on real time stock prices. 
+This Discord bot provide's information on real time stock prices. 
